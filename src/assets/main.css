@@ -1,0 +1,23 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+/* Umumiy Konteyner */
+#app {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+@import '@fortawesome/fontawesome-free/css/all.css';
